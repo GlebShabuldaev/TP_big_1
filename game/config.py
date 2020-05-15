@@ -1,0 +1,17 @@
+squad_members = 5
+army_squads = 5
+army_generals = 1
+screen_highest = 1080
+screen_lowest = 0
+screen_left = 0
+screen_right = 1920
+general_price = 15
+troop_price = 5
+army_price = 50
+squad_price = 10
+img_1_borders = [(0, 175), (100, 235)]
+img_2_borders = [(0, 235), (100, 365)]
+img_3_borders = [(0, 365), (100, 490)]
+img_4_borders = [(0, 490), (100, 630)]
+castle_position = 1150
+display_settings = (1366, 768)
